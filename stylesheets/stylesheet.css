@@ -7,7 +7,10 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #606c71; 
+  background-image: url("http://orig15.deviantart.net/3efb/f/2012/098/5/e/my_guild_wars_2_stream_wallpaper_by_chipinators-d4vic31.jpg");
+  background-repeat: no-repeat;
+}
 
 a {
   color: #1e6bb8;
