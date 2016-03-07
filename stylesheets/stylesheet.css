@@ -9,7 +9,7 @@ body {
   line-height: 1.5;
   color: #606c71; 
   background-image: url("http://orig15.deviantart.net/3efb/f/2012/098/5/e/my_guild_wars_2_stream_wallpaper_by_chipinators-d4vic31.jpg");
-  background-size: cover;
+  background-size: contain;
   background-position: center bottom;
   background-repeat: repeat-y;
 }
